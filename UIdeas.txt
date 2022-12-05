@@ -1,0 +1,18 @@
+# UIdeas
+
+add quits (with reservation wage)
+
+different benefit shapes (insurance effect vs. paying out soon)
+borrowing
+on the job search/search intensity
+UI = % of wages
+business cycle
+endogenous wage offer distributions
+taxes and a balanced budget
+hyperbolic discounting
+how to value no income?
+k-heart attacks aging
+Payday lending against UI?
+What if one state variable describes the beliefs about the quality of jobs one will be offered, and there's a tradeoff between exploration and exploitation
+Utility of leisure
+Can this be used to improve on standard macro utility of unemployment = 0.4?
